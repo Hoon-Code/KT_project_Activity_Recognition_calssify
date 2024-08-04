@@ -1,0 +1,1 @@
+# KT_project_Activity_Recognition_calssify
