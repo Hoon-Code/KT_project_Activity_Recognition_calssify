@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/af600b16-052f-4d3c-a401-51331a9abc96)# 스마트폰 센서 데이터 기반 행동 인식 분류
+# 스마트폰 센서 데이터 기반 행동 인식 분류
 ---
 ## 프로젝트 개요 
 - 주제 : 스마트폰 센서 데이터를 활용한 행동 인식
@@ -83,4 +83,3 @@
 - test셋으로 예측, 평가
 
 ![image](https://github.com/user-attachments/assets/cd9f72f6-4f60-4fb6-9b9e-b8d4dbba0e83)
-
